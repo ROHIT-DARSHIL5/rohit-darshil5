@@ -185,7 +185,7 @@ Data structures, graph algorithms, dynamic programming and optimization.
 
 # Let's Connect
 
-Interested in **AI, Machine Learning, Computer Vision, Robotics, Algorithms or Intelligent Systems**?
+Interested in **AI, Machine Learning, Computer Vision, Robotics, Algorithms and Intelligent Systems**
 
 **Email:** [lkrishna.ikon@gmail.com](mailto:lkrishna.ikon@gmail.com)
 
