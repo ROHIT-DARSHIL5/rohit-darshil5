@@ -190,17 +190,14 @@ Strengthening problem-solving through data structures, graph algorithms, dynamic
 
 ---
 
-# My Approach
+# My approach
 
-> **Understand the fundamentals. Build the system. Break it. Debug it. Improve it.**
+I like working on problems that sit at the intersection of **AI, software, algorithms, and robotics**.
 
-I prefer learning by building.
+My projects usually involve taking a problem from **modelling and algorithm design to implementation, experimentation, and evaluation** — whether that means training a vision model, designing a robotic system, optimizing a graph-based solution, or building an analytical application.
 
-Whether it's a neural network, a robotic mechanism, an optimization algorithm, or a software system, I try to understand what happens underneath the abstraction and turn that understanding into something functional.
-
----
-
-# Let's Connect
+I'm particularly interested in understanding how intelligent systems work **beyond the abstraction layer**, and applying that understanding to build practical systems.
+# 🤝 Let's Connect
 
 I'm always open to connecting with people interested in **AI, Machine Learning, Robotics, Computer Vision, Algorithms, and Intelligent Systems.**
 
