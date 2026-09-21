@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Rohit Darshil 
 
-<!--
-**ROHIT-DARSHIL5/rohit-darshil5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science Student • Machine Learning • Computer Vision • Robotics • Intelligent Systems
 
-Here are some ideas to get you started:
+I'm a B.Tech Artificial Intelligence & Data Science student at Amrita Vishwa Vidyapeetham, specialising in Autonomous Agents & Robotic Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build intelligent systems that bring together AI, algorithms, robotics, computer vision, optimisation and software engineering — from deep-learning models and autonomous robotic systems to algorithm-driven applications and computational simulations.
+
+---
+
+## What I Build
+
+```text
+AI / ML              →  Deep Learning • Computer Vision • NLP
+Robotics             →  Autonomous Systems • Embedded Control • Sensors
+Algorithms           →  Graphs • Dynamic Programming • Trees • Optimization
+Software             →  Java • Spring Boot • REST APIs • Python
+Simulation           →  MATLAB • Simulink • Scientific Computing
+Hardware             →  Arduino • ESP32 • Sensors • 3D-Printed Systems
